@@ -1,4 +1,4 @@
-# Senior Software Engineer
+# Software Engineer
 
 ### 🇺🇸
 Focused on building and evolving production-grade systems. Most of my work is centered around backend-heavy applications, where clarity, reliability, and long-term maintainability matter more than trends or fashionable abstractions.
